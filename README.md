@@ -7,7 +7,7 @@ Team: Actuarial Swifties
 
 Team Members: Emma Liu, Amanda Lao, Farah Maudud, Kangnan Wang and Wa'ddah El-Ardenli
 
-### Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history
+#### Please see [here](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties) for contributions and commit history
 
 ------------------------------------------------------------------------
 
@@ -172,23 +172,27 @@ Provided below are our projections for economic costs without the program, expre
 ### Economic costs with program
 
 To project the economic costs of the program, it was necessary to consider three different sets of costs, whose sum is the total economic costs of the program:
-</p>
+
 1.  The costs of involuntary relocation
-</p>
+
 2.  The costs of voluntary relocation
-</p>
+
 3.  The cost of rebuilding for those who choose to remain in their property.
-</p>
+
 To model voluntary relocation costs, we assume an impact of the discount (3%) on people's migration to project gradual migration over time, from faster rates at short terms to slower rates long terms where the discount will be re-evaluated/is uncertain.
-  
+
+<p align="center">
 <img width="548" alt="Screen Shot 2023-04-11 at 10 16 41 pm" src="https://user-images.githubusercontent.com/113316437/231159779-09893912-4560-4640-a1af-d54ed2979c8b.png">
+</p>
 
 The change in population density over short and long terms across regions using these migration rates are assumed to impact average hazard severity. Each exiting or entering person reduces or increases the average hazard severity by a factor of the existing average hazard severity of the region. We also inflate the new average hazard severity over time. The cost of voluntary relocation to the program each year is the product of voluntary relocation each year and average property costs in the new region.
 
 To model additional involuntary relocation costs with discounts, above the 5% and 20% of the population affected by general and major hazard events, we first assume an impact of the discount (1%) on people's additional migration to less risky regions under the program.
 
+<p align="center">
 <img width="679" alt="Screen Shot 2023-04-11 at 10 17 27 pm" src="https://user-images.githubusercontent.com/113316437/231160350-d021ea6e-14a1-4c4a-baa7-f5fc4c60e446.png">
-  
+</p>
+
 After executing this split, the same formulae as "without program" is used to model involuntary relocation costs.
 
 Temporary housing costs are only provided for 6 months, instead of a year, to also encourage people to relocate earlier using the discount provided.
@@ -279,7 +283,7 @@ All in all, it is of the essence to consider the nature of the ethical considera
 This report outlines Swift's Social Insurance Program design to help Storslysia incentivise voluntary relocation to reduce costs due to climate-related events. Through careful analysis and modelling, we have produced results which satisfy requirements of the addition of a program reducing costs and cost of program being less than 10% of GDP. Risks, sensitivities and limitations of the program and process have been considered and Swift highly recommends further research and ongoing frequent monitoring of the proposed program.
 
 
-### Appendix available in report pdf
+### Appendix available in [Final Report PDF](ACTL4001-5100-Final-Report-z5208502-z5308812-z5309389-z5310487-z5310522.pdf)
 
 
 ## References
