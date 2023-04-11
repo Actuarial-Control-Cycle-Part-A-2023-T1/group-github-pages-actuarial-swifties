@@ -7,7 +7,7 @@ Team: Actuarial Swifties
 
 Team Members: Emma Liu, Amanda Lao, Farah Maudud, Kangnan Wang and Wa'ddah El-Ardenli
 
-Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history
+_Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history_
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ For the purposes of this project, it was assumed that 50% of damages are associa
 Provided below are our projections for economic costs without the program, expressed as a percentage of Storslysia's GDP.
 <p align="center">
   <img width="548" alt="image" src="https://user-images.githubusercontent.com/126951584/230843782-38b3abb0-362c-4e5a-8e72-c9c587f7dc02.png">
-<p align="left">  
+</p>
 
 ### Economic costs with program
 
@@ -198,6 +198,7 @@ Provided below are our projections for the economic costs of the program, expres
 Figure 1. Costs to Storslysia of hazard events from 2020 to 2050, as a proportion of GDP. Costs without the program in this period are below 10% of GDP. Our recommended program improves on costs to Storslysia, although our sensitivities show returns on greater upfront investment to relocation that may increase costs to Storslysia as a proportion of GDP in the short term but produce greater savings in the long term.
 <p align="center">
 <img width="548" alt="image" src="https://user-images.githubusercontent.com/108808920/230888848-059d37e9-1c21-4f2c-a281-93b241ae4101.png">  
+</p>
 
 We assume that as people move out of their riskier regions, they are able to sell to people moving from even riskier regions or in the case of Region 2 -- the reduction of the population in 2 will be driven by people choosing not to rebuild as they face hazard events over time.
 
@@ -212,7 +213,8 @@ We determine that the economic capital required to maintain the program in the f
 Provided below are the voluntary versus involuntary costs of the program, expressed as a percentage of Storslysia's GDP. As can be seen, voluntary costs are consistently lower than involuntary costs across the short-term and long-term. Voluntary costs are also assumed to remain constant across all SSP scenarios, whereas involuntary costs are assumed to vary. For the voluntary versus involuntary costs as a percentage of GDP at time points 2020, 2025 (short-term) and 2050 (long-term), see Appendix 10.
 <p align="center">
   <img width="548" alt="image" src= "https://user-images.githubusercontent.com/108808920/230889320-954ddd8b-5be9-4bce-8748-c0b818a2498b.png">
-  
+</p>
+
 ## Risks and Risk Mitigation
 
 Provided below is a summary of potential risks and unforeseen events that may have a material impact on the program and mitigation strategies for each. A full table of risks as well as a risk matrix score is provided in Appendix 7.
@@ -250,7 +252,7 @@ Due to the uncertainty surrounding climate risk, the SSP projections for frequen
 ## Sensitivity Analysis
 <p align="center">
   <img width="548" alt="image" src= "https://user-images.githubusercontent.com/108808920/230891492-be410d1b-f17d-48a6-ac45-8b88ee64dafc.png">
-
+</p>
 
 ## Data Limitations
 
