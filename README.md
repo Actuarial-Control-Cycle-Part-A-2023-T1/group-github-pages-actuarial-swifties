@@ -7,6 +7,7 @@ Team: Actuarial Swifties
 
 Team Members: Emma Liu, Amanda Lao, Farah Maudud, Kangnan Wang and Wa'ddah El-Ardenli
 
+Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history
 ------------------------------------------------------------------------
 
 ## Introduction
@@ -165,6 +166,7 @@ For the purposes of this project, it was assumed that 50% of damages are associa
 Provided below are our projections for economic costs without the program, expressed as a percentage of Storslysia's GDP.
 <p align="center">
   <img width="548" alt="image" src="https://user-images.githubusercontent.com/126951584/230843782-38b3abb0-362c-4e5a-8e72-c9c587f7dc02.png">
+
 
 ### Economic costs with program
 
