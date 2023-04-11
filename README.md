@@ -7,7 +7,7 @@ Team: Actuarial Swifties
 
 Team Members: Emma Liu, Amanda Lao, Farah Maudud, Kangnan Wang and Wa'ddah El-Ardenli
 
-Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history
+### Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history
 
 ------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ Provided below are our projections for economic costs without the program, expre
 </p>
 
 ### Economic costs with program
-</p>
+
 To project the economic costs of the program, it was necessary to consider three different sets of costs, whose sum is the total economic costs of the program:
 </p>
 1.  The costs of involuntary relocation
