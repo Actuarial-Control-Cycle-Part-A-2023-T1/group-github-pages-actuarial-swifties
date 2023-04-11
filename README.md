@@ -153,29 +153,13 @@ The frequency and severity components were fitted to various distributions to de
 <img width="773" alt="Screen Shot 2023-04-11 at 10 10 05 pm" src="https://user-images.githubusercontent.com/113316437/231158535-cebf1015-3547-4f83-9876-dda82b141efd.png">
 
 Of those affected, “n”, a proportion of them migrate to another region, which we call “involuntary relocation”. Their migration is spread evenly across the other regions. People who choose not to migrate to another region “rebuild”.
+
 <img width="581" alt="Screen Shot 2023-04-11 at 10 10 09 pm" src="https://user-images.githubusercontent.com/113316437/231158679-b92e5fc4-6335-4dc3-a716-a0bc8999eaa1.png">
 
 To obtain the total economic costs without the program in both the short term (5 years) and long term (30 years), the following formulae was used:
-```math 
-\begin{multline}
-\text{Costs for Rebuilding} = \text{Percentage of Claimants Choosing to Rebuild} * \text{Total Sum of Property Damage}
-+ \text{Material and Labour Costs}
-+ \text{Costs of Replacing Household Goods} 
-\end{multline}
-```
-```math
-\text{Costs for Involuntary Relocation} = \text{Percentage of Claimants Who Involuntary Relocate} * \text{Total Sum of Property Damage}
-+ \text{Cost of Replacing Household Goods}
-+ \text{Temporary Housing Costs} 
-```
-```math
-+ \text{1\% Discount on New Property for Individuals that Relocate from a Higher to a Lower Risk Region}
-```
-```math
-\begin{multline}
-\text{Total Economic Costs} = \text{Costs for Rebuilding} + \text{Costs for Involuntary Relocation}
-\end{multline}
-```
+
+<img width="756" alt="Screen Shot 2023-04-11 at 10 14 17 pm" src="https://user-images.githubusercontent.com/113316437/231159513-f743df7b-c242-4916-90be-9f03269200fa.png">
+
 For the purposes of this project, it was assumed that 50% of damages are associated with rebuilding costs and the remaining 50% with involuntary relocation costs. Temporary housing costs were calculated by projecting the inflated costs per person per year and multiplying this by the volume of people involuntarily relocating to a given region.
 
 Provided below are our projections for economic costs without the program, expressed as a percentage of Storslysia's GDP.
@@ -193,26 +177,15 @@ To project the economic costs of the program, it was necessary to consider three
 3.  The cost of rebuilding for those who choose to remain in their property.
 
 To model voluntary relocation costs, we assume an impact of the discount (3%) on people's migration to project gradual migration over time, from faster rates at short terms to slower rates long terms where the discount will be re-evaluated/is uncertain.
-```math 
-\begin{multline}
-\text{short-term migration (5 years)} = (1+ \text{discount})^{1/(5\cdot4)}
-\end{multline}
-```
-```math 
-\begin{multline}
-\text{short to long-term migration (25 years)} = (1+ \text{discount})^{1/(25\cdot2)}
-\end{multline}
-```
+  
+<img width="548" alt="Screen Shot 2023-04-11 at 10 16 41 pm" src="https://user-images.githubusercontent.com/113316437/231159779-09893912-4560-4640-a1af-d54ed2979c8b.png">
 
 The change in population density over short and long terms across regions using these migration rates are assumed to impact average hazard severity. Each exiting or entering person reduces or increases the average hazard severity by a factor of the existing average hazard severity of the region. We also inflate the new average hazard severity over time. The cost of voluntary relocation to the program each year is the product of voluntary relocation each year and average property costs in the new region.
 
 To model additional involuntary relocation costs with discounts, above the 5% and 20% of the population affected by general and major hazard events, we first assume an impact of the discount (1%) on people's additional migration to less risky regions under the program.
-```math 
-\begin{multline}
-\text{Migration after a hazard event} = (5\%*n_{general} + 20\%*n_{major})\cdot(1+\text{discount})^{1/4}
-\end{multline}
-```
 
+<img width="685" alt="Screen Shot 2023-04-11 at 10 17 27 pm" src="https://user-images.githubusercontent.com/113316437/231160061-07b39848-36b7-473c-9ec7-9c5206dd10a9.png">
+  
 After executing this split, the same formulae as "without program" is used to model involuntary relocation costs.
 
 Temporary housing costs are only provided for 6 months, instead of a year, to also encourage people to relocate earlier using the discount provided.
