@@ -8,6 +8,7 @@ Team: Actuarial Swifties
 Team Members: Emma Liu, Amanda Lao, Farah Maudud, Kangnan Wang and Wa'ddah El-Ardenli
 
 Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history
+
 ------------------------------------------------------------------------
 
 ## Introduction
@@ -250,6 +251,7 @@ Due to the uncertainty surrounding climate risk, the SSP projections for frequen
 <p align="center">
   <img width="548" alt="image" src= "https://user-images.githubusercontent.com/108808920/230891492-be410d1b-f17d-48a6-ac45-8b88ee64dafc.png">
 
+
 ## Data Limitations
 
 All datasets were cleaned and exploratory data analysis was conducted to identify any anomalies. The program is modelled using data provided to Swift and thus relies on the accuracy of this historic data. The data has a small number of hazard events. Small sample sizes can bias a model, and although we cover all historically observed hazard events, it should be noted that there has only been 1 event for fogs and landslides, that fully drive our future expected experience for those events. While an effective program has been developed, as the design is limited to the current data provided for Storslysia, it is important to continue to monitor and review the program with new data and other relevant data that may be available, such as Storslysia's census.
@@ -266,13 +268,15 @@ The cultural disruptions which can emerge from the social insurance program are 
 
 Discrimination against who can claim voluntary relocation cover is an ethical dilemma which needs to be accounted for. While it is ideal to allow the vulnerable community to relocate first (the elderly, young, and disabled) as they are more at risk of being injured or facing fatality from a hazard, a discrimination perspective towards ethics suggests this is unethical as the vulnerable only make up a minority 39.3% compared to the majority 60.7% (Australian Bureau of Statistics 2022). Even when discussing the vulnerable community, thorough analysis on ensuring a smooth transition from risky to safe regions for the vulnerable community needs to be taken as these individuals will need assistance in the form of nursing care as well as moving aid, which may be harder to find given the labor market.
 
+  
 All in all, it is of the essence to consider the nature of the ethical considerations in light of the social insurance program. While it isn't possible to cater to every stakeholder, Swift has tried to find a balance across the needs of the people and government. Swift intends on reporting the effects of the program on a bi-annual basis in the first few years of the program to ensure that our expectations are consistent with the actual claims such that we can then focus on providing more aid to low socio-economic individuals and vulnerable people in their relocation. Cultural impacts will be discussed with other relevant bodies, such as UNESCO, to ensure that cultural and historical sites can maintain their significance despite relocation from risky regions.
 
-## Conclusion and Recommendations
+
+  ## Conclusion and Recommendations
 
 This report outlines Swift's Social Insurance Program design to help Storslysia incentivise voluntary relocation to reduce costs due to climate-related events. Through careful analysis and modelling, we have produced results which satisfy requirements of the addition of a program reducing costs and cost of program being less than 10% of GDP. Risks, sensitivities and limitations of the program and process have been considered and Swift highly recommends further research and ongoing frequent monitoring of the proposed program.
 
-> Appendix available in report pdf
+_Appendix available in report pdf_
 
 ## References
 
