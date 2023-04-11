@@ -172,13 +172,13 @@ Provided below are our projections for economic costs without the program, expre
 ### Economic costs with program
 </p>
 To project the economic costs of the program, it was necessary to consider three different sets of costs, whose sum is the total economic costs of the program:
-
+</p>
 1.  The costs of involuntary relocation
-
+</p>
 2.  The costs of voluntary relocation
-
+</p>
 3.  The cost of rebuilding for those who choose to remain in their property.
-
+</p>
 To model voluntary relocation costs, we assume an impact of the discount (3%) on people's migration to project gradual migration over time, from faster rates at short terms to slower rates long terms where the discount will be re-evaluated/is uncertain.
   
 <img width="548" alt="Screen Shot 2023-04-11 at 10 16 41 pm" src="https://user-images.githubusercontent.com/113316437/231159779-09893912-4560-4640-a1af-d54ed2979c8b.png">
@@ -274,11 +274,13 @@ Discrimination against who can claim voluntary relocation cover is an ethical di
 All in all, it is of the essence to consider the nature of the ethical considerations in light of the social insurance program. While it isn't possible to cater to every stakeholder, Swift has tried to find a balance across the needs of the people and government. Swift intends on reporting the effects of the program on a bi-annual basis in the first few years of the program to ensure that our expectations are consistent with the actual claims such that we can then focus on providing more aid to low socio-economic individuals and vulnerable people in their relocation. Cultural impacts will be discussed with other relevant bodies, such as UNESCO, to ensure that cultural and historical sites can maintain their significance despite relocation from risky regions.
 
 
-  ## Conclusion and Recommendations
+## Conclusion and Recommendations
 
 This report outlines Swift's Social Insurance Program design to help Storslysia incentivise voluntary relocation to reduce costs due to climate-related events. Through careful analysis and modelling, we have produced results which satisfy requirements of the addition of a program reducing costs and cost of program being less than 10% of GDP. Risks, sensitivities and limitations of the program and process have been considered and Swift highly recommends further research and ongoing frequent monitoring of the proposed program.
 
-**_Appendix available in report pdf_**
+
+### Appendix available in report pdf
+
 
 ## References
 
