@@ -7,7 +7,7 @@ Team: Actuarial Swifties
 
 Team Members: Emma Liu, Amanda Lao, Farah Maudud, Kangnan Wang and Wa'ddah El-Ardenli
 
-#### Please see [here](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties) for contributions and commit history
+#### Please see [here (old repository)](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties) for contributions and  full commit history.
 
 ------------------------------------------------------------------------
 
