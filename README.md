@@ -184,7 +184,7 @@ The change in population density over short and long terms across regions using 
 
 To model additional involuntary relocation costs with discounts, above the 5% and 20% of the population affected by general and major hazard events, we first assume an impact of the discount (1%) on people's additional migration to less risky regions under the program.
 
-<img width="685" alt="Screen Shot 2023-04-11 at 10 17 27 pm" src="https://user-images.githubusercontent.com/113316437/231160061-07b39848-36b7-473c-9ec7-9c5206dd10a9.png">
+<img width="679" alt="Screen Shot 2023-04-11 at 10 17 27 pm" src="https://user-images.githubusercontent.com/113316437/231160350-d021ea6e-14a1-4c4a-baa7-f5fc4c60e446.png">
   
 After executing this split, the same formulae as "without program" is used to model involuntary relocation costs.
 
