@@ -7,7 +7,7 @@ Team: Actuarial Swifties
 
 Team Members: Emma Liu, Amanda Lao, Farah Maudud, Kangnan Wang and Wa'ddah El-Ardenli
 
-_Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history_
+Please see (old repository) https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/actuarial_swifties for contributions and commit history
 
 ------------------------------------------------------------------------
 
@@ -170,15 +170,15 @@ Provided below are our projections for economic costs without the program, expre
 </p>
 
 ### Economic costs with program
-
+</p>
 To project the economic costs of the program, it was necessary to consider three different sets of costs, whose sum is the total economic costs of the program:
-
+</p>
 1.  The costs of involuntary relocation
-
+</p>
 2.  The costs of voluntary relocation
-
+</p>
 3.  The cost of rebuilding for those who choose to remain in their property.
-
+</p>
 To model voluntary relocation costs, we assume an impact of the discount (3%) on people's migration to project gradual migration over time, from faster rates at short terms to slower rates long terms where the discount will be re-evaluated/is uncertain.
   
 <img width="548" alt="Screen Shot 2023-04-11 at 10 16 41 pm" src="https://user-images.githubusercontent.com/113316437/231159779-09893912-4560-4640-a1af-d54ed2979c8b.png">
